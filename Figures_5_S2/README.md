@@ -1,4 +1,4 @@
-# Figures 5 and S2
+## Figures 5 and S2
 
 1. download DRC data from [figshare](https://figshare.com/s/70c3d487f11680acc6d6):
 
@@ -15,6 +15,6 @@
 
 4. run ``figs_STRFs.ipynb`` to generate Figures 5 and S2.
 
-## Requirements
+### Requirements
 
 Python 2.7.

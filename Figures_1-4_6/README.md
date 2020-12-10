@@ -1,5 +1,5 @@
 
-# Figures 1 to 4 and 6
+## Figures 1 to 4 and 6
 
 1. download DRC data from [figshare](https://figshare.com/s/70c3d487f11680acc6d6):
 
@@ -17,6 +17,6 @@
 - ``displayFigure4.m`` to generate panels of Figure 4.
 - ``displayFigure6.m`` to generate panels of Figure 6.
 
-## Requirements
+### Requirements
 
 MATLAB R2015b or above.
