@@ -1,12 +1,12 @@
-# Sustained Activation of PV+ Interneurons in Core Auditory Cortex Enables Robust Divisive Gain Control for Complex and Naturalistic Stimuli
+## Sustained Activation of PV+ Interneurons in Core Auditory Cortex Enables Robust Divisive Gain Control for Complex and Naturalistic Stimuli
 
 MATLAB and Python code for generating the figures in [**Sustained Activation of PV+ Interneurons in Core Auditory Cortex Enables Robust Divisive Gain Control for Complex and Naturalistic Stimuli**](https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhaa347/6029417). Each subfolder has all instructions and code to generate one figure or a set of figures.
 
-## Requirements
+### Requirements
 
 MATLAB R2015b or above, and Python 2.7.
 
-## Citation
+### Citation
 
 If you find this code useful, please consider citing
 
